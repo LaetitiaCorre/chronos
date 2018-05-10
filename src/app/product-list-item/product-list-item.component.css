@@ -1,0 +1,40 @@
+.product-list-item {
+  display: flex;
+  flex-direction: column;
+  background-color: #f9f9f9;
+  width: 263px;
+  border-radius: 2px;
+  align-items: center;
+  margin-right: 10px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+.title{
+  color:#504f50;
+}
+
+.predescription {
+  font-size: 15px;
+}
+
+button {
+  padding: 5px 10px;
+  margin: 20px;
+  background-color: #f4c542;
+  border: #2c2c2c 0.5px solid;
+  border-radius: 2px;
+  width: 100px;
+  height: auto;
+}
+
+title {
+  font-size: 30px;
+}
+
+.price {
+  color: red;
+}
